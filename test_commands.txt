@@ -1,0 +1,4 @@
+#ficheiro "test_commands.txt"
+whoami
+date
+#fim do ficheiro

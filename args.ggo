@@ -1,0 +1,22 @@
+package "Projeto PA"
+version "1.0"
+purpose "nanoShell"
+description "Marta Santos - 2181351         Patricia Paulo - 2191239"
+
+
+option 	"file" 			f 	"Executes command lines inside of file" string optional
+option 	"max"			m 	"Maximum number of executions" int optional
+option 	"signalfile" 	s	"Creates a file with signals sent to nanoShell" no optional
+
+#----------------------------
+# independent options
+#----------------------------
+# Mandatory option
+#option "folder" f "folder" string typestr="dirname" required
+
+# Optional
+#option "num" n "number" int optional
+
+#
+# NOTE: support for this file needs to be enabled in 'makefile'
+#

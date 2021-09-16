@@ -1,0 +1,3 @@
+4 executions of applications
+ 1 executions with STDOUT redir 
+ 2 executions with STDERR redir
